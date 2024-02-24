@@ -72,7 +72,7 @@ body {
 }
 
 .section-1 {
-  margin-top: 20px;
+  margin-top: 10px;
 }
 
 .h3-cta {
@@ -93,11 +93,15 @@ body {
 }
 
 .img-1,
-.img-2 {
-  width: 250px;
-  height: 290px;
+.img-2,
+.img-3 {
+  width: 240px;
+  height: 250px;
   object-fit: cover;
   border-radius: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+  box-shadow: 5px 5x 5px black;
 }
 
 /* BROWSE HTML STYLES */
